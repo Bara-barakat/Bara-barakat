@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bara Barakat</h1>
-<h3 align="center">A passionate frontend developer from Amman</h3>
+<h3 align="center">A passionate Full-Stack Web Developer from Amman</h3>
 
 - 👨‍💻 All of my projects are available at [https://bara-barakat.net/](https://bara-barakat.net/)
 
